@@ -2,6 +2,7 @@
 ### Chart [ with-subchart ] ../../test/data/v3/with-subchart
 
 
+ PASS  Full Snapshot	../../test/data/v3/with-subchart/tests/full_snapshot_test.yaml
  PASS  test cert-manager rbac	../../test/data/v3/with-subchart/tests/certmanager_test.yaml
  PASS  test deployment	../../test/data/v3/with-subchart/tests/deployment_test.yaml
  PASS  test ingress	../../test/data/v3/with-subchart/tests/ingress_test.yaml
@@ -12,9 +13,9 @@
 
 
 Charts:      1 passed, 1 total
-Test Suites: 7 passed, 7 total
-Tests:       14 passed, 14 total
-Snapshot:    5 passed, 5 total
+Test Suites: 9 passed, 9 total
+Tests:       15 passed, 15 total
+Snapshot:    66 passed, 66 total
 Time:        XX.XXXms
 
 
